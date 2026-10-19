@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Poppins", sans-serif;
+    background: #020617;
+    background-image: radial-gradient(circle at 15% 10%, rgba(6, 182, 212, 0.14), transparent 28%), radial-gradient(circle at 85% 15%, rgba(139, 92, 246, 0.18), transparent 28%);
+  }
+}
